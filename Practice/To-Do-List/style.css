@@ -1,0 +1,9 @@
+.task-list {
+  cursor: pointer;
+  width: min-content;
+}
+
+.task-list:hover {
+  color: green;
+  text-decoration: line-through;
+}
